@@ -2,7 +2,7 @@
 
 I'm an artist turned full stack developer.
 
-### Tech Stack
+## Tech Stack
 
 **Frontend:** TypeScript/JavaScript, React <br>
 **Backend:** Node.js, Ruby on Rails, Golang, Python <br>

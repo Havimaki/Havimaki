@@ -9,9 +9,9 @@ I'm an artist turned full stack developer.
 **Other:** AWS, Docker, SQL, Bash, Linux
 
 ## Learn More
-- ⚡ Fun fact: I broke both my elbows 
-- ⚡ Check out my _very simple_ website [here](https://havimaki.github.io/).
-- ⚡ Pronouns: `She/Her/Hers`
+⚡ Fun fact: I broke both my elbows 
+⚡ Check out my _very simple_ website [here](https://havimaki.github.io/).
+⚡ Pronouns: `She/Her/Hers`
 
 # 
 

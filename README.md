@@ -6,12 +6,12 @@ I'm an artist turned full stack developer.
 
 **Frontend:** TypeScript/JavaScript, React <br>
 **Backend:** Node.js, Ruby on Rails, Golang, Python <br>
-**Other:** AWS, Docker, SQL, Bash, Linux
+**Other:** AWS, Docker, SQL, Bash, Linux  <br>
 
 ## Learn More
-⚡ Fun fact: I broke both my elbows 
-⚡ Check out my _very simple_ website [here](https://havimaki.github.io/).
-⚡ Pronouns: `She/Her/Hers`
+⚡ Fun fact: I broke both my elbows  <br>
+⚡ Check out my _very simple_ website [here](https://havimaki.github.io/).  <br>
+⚡ Pronouns: `She/Her/Hers`  <br>
 
 # 
 

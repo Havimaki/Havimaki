@@ -1,4 +1,4 @@
-## Hello, Havimaki here ⚡
+<!-- ## Hello, Havimaki here ⚡ -->
 
 I'm an artist turned full stack developer. Check out my very simple website [here](https://havimaki.github.io/).
 

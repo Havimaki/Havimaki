@@ -4,12 +4,9 @@ I'm an artist turned full stack developer.
 
 ### Tech Stack
 
-Frontend: TypeScript/JavaScript, React
-Backend: Node.js, Ruby on Rails, Golang, Python
+Frontend: TypeScript/JavaScript, React <br>
+Backend: Node.js, Ruby on Rails, Golang, Python <br>
 Other: AWS, Docker, SQL, Bash, Linux
-
-[![Linkedin Badge](https://img.shields.io/badge/-@danielle-havimaki-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielle-havimaki/)](https://www.linkedin.com/in/danielle-havimaki/)
-
 
 # 
 

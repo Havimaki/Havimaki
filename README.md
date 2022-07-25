@@ -8,6 +8,10 @@ I'm an artist turned full stack developer. Check out my _very simple_ website [h
 **Backend:** Node.js, Ruby on Rails, Golang, Python <br>
 **Other:** AWS, Docker, SQL, Bash, Linux
 
+## Learn More
+- 👯 Learn more about me **[here](https://havimaki.github.io)**
+- 😄 Pronouns: `She/Her/Hers`
+
 # 
 
 <!-- [![Havimaki's Github Stats](https://github-readme-stats.vercel.app/api?username=havimaki&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->

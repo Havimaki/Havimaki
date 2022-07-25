@@ -1,6 +1,6 @@
 <!-- ## Hello, Havimaki here ⚡ -->
 
-I'm an artist turned full stack developer. Check out my _very simple_ website [here](https://havimaki.github.io/).
+I'm an artist turned full stack developer.
 
 ## Tech Stack
 
@@ -9,8 +9,9 @@ I'm an artist turned full stack developer. Check out my _very simple_ website [h
 **Other:** AWS, Docker, SQL, Bash, Linux
 
 ## Learn More
-- 👯 Learn more about me **[here](https://havimaki.github.io)**
-- 😄 Pronouns: `She/Her/Hers`
+- ⚡ Fun fact: I broke both my elbows 
+- ⚡ Check out my _very simple_ website [here](https://havimaki.github.io/).
+- ⚡ Pronouns: `She/Her/Hers`
 
 # 
 
